@@ -1,6 +1,6 @@
 id_kulit,kode_kulit,nama_kulit,deskripsi
-1,K001,Kulit Normal,"Kulit seimbang, tidak terlalu berminyak maupun kering"
+1,K001,Kulit Berminyak,Produksi minyak berlebih
 2,K002,Kulit Kering,Kulit kekurangan kelembapan
-3,K003,Kulit Berminyak,Produksi minyak berlebih
-4,K004,Kulit Kombinasi,"T-zone berminyak, pipi cenderung kering"
-5,K005,Kulit Sensitif,Mudah iritasi dan kemerahan
+3,K003,Kulit Kombinasi,"T-zone berminyak, pipi cenderung kering"
+4,K004,Kulit Sensitif,Mudah iritasi dan kemerahan
+5,K005,Kulit Normal,"Kulit seimbang, tidak terlalu berminyak maupun kering"
