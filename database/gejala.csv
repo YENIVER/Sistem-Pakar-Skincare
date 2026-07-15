@@ -1,0 +1,31 @@
+id_gejala,kode_gejala,nama_gejala
+1,G001,Wajah cepat berminyak
+2,G002,Pori-pori besar
+3,G003,Mudah berjerawat
+4,G004,Kulit terasa kering
+5,G005,Kulit mengelupas
+6,G006,Kulit terasa kasar
+7,G007,T-zone berminyak
+8,G008,Pipi terasa kering
+9,G009,Kulit mudah kemerahan
+10,G010,Kulit terasa gatal
+11,G011,Kulit mudah iritasi
+12,G012,Kulit terasa kencang setelah cuci muka
+13,G013,Makeup cepat luntur
+14,G014,Sering muncul komedo
+15,G015,Kulit tampak kusam
+16,G016,Kulit terasa lembut
+17,G017,Minyak wajah seimbang
+18,G018,Jarang berjerawat
+19,G019,Kulit bercahaya
+20,G020,Mudah terbakar matahari
+21,G021,Perih saat memakai skincare baru
+22,G022,Pori-pori kecil
+23,G023,Kulit elastis
+24,G024,Tidak berminyak
+25,G025,Tidak terlalu kering
+26,G026,Kulit mudah berkilau
+27,G027,Wajah mudah merah
+28,G028,Kulit mudah pecah-pecah
+29,G029,Area hidung berminyak
+30,G030,Pipi normal
