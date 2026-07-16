@@ -1,11 +1,11 @@
-id_produk,nama_produk,merk,id_kandungan,id_kulit,deskripsi,gambar_produk
-1,Niacinamide 10% + Zinc,The Ordinary,1,K003,Produk skincare,product_placeholder.png
-2,Niacinamide Serum,Somethinc,1,K003,Produk skincare,product_placeholder.png
-3,5X Ceramide Barrier,Skintific,4,K002,Produk skincare,product_placeholder.png
-4,Ultimate Hyaluron Essence,Hada Labo,3,K002,Produk skincare,product_placeholder.png
-5,Madagascar Centella Ampoule,SKIN1004,5,K005,Produk skincare,product_placeholder.png
-6,Hydra Rose Gel,Wardah,3,K002,Produk skincare,product_placeholder.png
-7,Acne Spot Gel,Azarine,10,K003,Produk skincare,product_placeholder.png
-8,Low pH Cleanser,COSRX,5,K005,Produk skincare,product_placeholder.png
-9,Hydra Glow Serum,The Originote,3,K002,Produk skincare,product_placeholder.png
-10,Miraculous Refining Serum,Avoskin,2,K003,Produk skincare,product_placeholder.png
+id_produk,nama_produk,merk,kandungan,id_kulit,deskripsi,gambar_produk
+1,Niacinamide 10% + Zinc,The Ordinary,"Niacinamide 10%, Zinc PCA",K003,Membantu mengurangi minyak berlebih dan menyamarkan pori.,product_placeholder.png
+2,Niacinamide Serum,Somethinc,"Niacinamide, Beet Extract",K003,Mencerahkan kulit dan membantu mengontrol sebum.,product_placeholder.png
+3,5X Ceramide Barrier,Skintific,"5X Ceramide, Hyaluronic Acid",K002,Memperbaiki skin barrier dan menjaga kelembapan kulit.,product_placeholder.png
+4,Ultimate Hyaluron Essence,Hada Labo,Hyaluronic Acid,K001,Memberikan hidrasi intensif untuk kulit kering.,product_placeholder.png
+5,Madagascar Centella Ampoule,SKIN1004,Centella Asiatica,K005,Menenangkan kulit sensitif dan membantu mengurangi kemerahan.,product_placeholder.png
+6,Hydra Rose Gel,Wardah,"Rose Extract, Hyaluronic Acid",K002,Menjaga kelembapan kulit sepanjang hari.,product_placeholder.png
+7,Acne Spot Gel,Azarine,"Salicylic Acid, Tea Tree",K003,Membantu mengatasi jerawat dan mengurangi minyak berlebih.,product_placeholder.png
+8,Low pH Cleanser,COSRX,Salicylic Acid,K005,Membersihkan wajah tanpa membuat kulit terasa kering.,product_placeholder.png
+9,Hydra Glow Serum,The Originote,"Hyaluronic Acid, Panthenol",K002,Melembapkan kulit dan membuat wajah tampak lebih glowing.,product_placeholder.png
+10,Miraculous Refining Serum,Avoskin,"AHA, BHA, PHA",K003,Membantu eksfoliasi kulit dan mengontrol produksi minyak.,product_placeholder.png
